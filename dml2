@@ -1,0 +1,3 @@
+use list5;
+update tbl_stock set  int_price=int_price +1.50;
+select *from tbl_stock;
