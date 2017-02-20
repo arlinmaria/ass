@@ -1,0 +1,2 @@
+use list5;
+select *from tbl_stock order by vchr_name limit 3;
