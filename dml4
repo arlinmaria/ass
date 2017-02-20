@@ -1,0 +1,2 @@
+use list5;
+SELECT * FROM tbl_stock ORDER BY vchr_name ASC;
