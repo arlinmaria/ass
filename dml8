@@ -1,0 +1,2 @@
+use list5;
+delete from tbl_stock where fk_int_supplier=(select s.pk_int_supplier_id from tbl_supplier S WHERE s.vchr_supplier_name="Creative"); 
