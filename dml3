@@ -1,0 +1,2 @@
+use list5;
+select *from tbl_stock where int_price >1000;
